@@ -1,5 +1,9 @@
 # Case Study - Massive Capital Project 1
 
+<div style="text-align: right">
+        <i>Antonio Quental</i>
+    </div>
+
 ## Approach
 
 To create a system that identifies Texas landowners who "really want to sell" or "really need to sell," I propose an AI-driven data consolidation and marketing platform for Big Texas Land Buyers (BTLB). The solution leverages data sources (County Data, Cell Phone/Email, Demographics, and Meta Data) to build a robust database and employs AI/ML to prioritize high-intent sellers. The approach includes:
